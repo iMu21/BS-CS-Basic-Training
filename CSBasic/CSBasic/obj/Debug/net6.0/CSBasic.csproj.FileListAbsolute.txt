@@ -1,0 +1,15 @@
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\bin\Debug\net6.0\CSBasic.exe
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\bin\Debug\net6.0\CSBasic.deps.json
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\bin\Debug\net6.0\CSBasic.runtimeconfig.json
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\bin\Debug\net6.0\CSBasic.dll
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\bin\Debug\net6.0\CSBasic.pdb
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.csproj.AssemblyReference.cache
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.AssemblyInfoInputs.cache
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.AssemblyInfo.cs
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.csproj.CoreCompileInputs.cache
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.dll
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\refint\CSBasic.dll
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.pdb
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\CSBasic.genruntimeconfig.cache
+C:\BS-CS-Basic-Training\CSBasic\CSBasic\obj\Debug\net6.0\ref\CSBasic.dll
